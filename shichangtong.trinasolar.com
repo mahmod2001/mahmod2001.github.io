@@ -1,1 +1,1 @@
-shichangtong.trinasolar.com
+go.trinasolar.com
